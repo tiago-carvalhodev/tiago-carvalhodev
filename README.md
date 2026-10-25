@@ -73,4 +73,4 @@ More projects coming soon.
 
 I'm always interested in discussing software engineering, frontend development and interesting projects.
 
-**LinkedIn:** Add your LinkedIn URL here
+**LinkedIn:** https://www.linkedin.com/in/tiago-carvalhodev/
